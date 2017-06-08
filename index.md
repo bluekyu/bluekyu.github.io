@@ -1,4 +1,4 @@
-# Welcome to bluekyu GitHub Pages
+# Welcome
 
 - GitHub: https://github.com/bluekyu/
 - OLD blog: http://blog.bluekyu.me
