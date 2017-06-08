@@ -1,6 +1,6 @@
-# 협업
+# Collaboration
 
-## 레퍼런스
+## Reference Site
 
 - https://help.github.com/articles/fork-a-repo/
 - https://help.github.com/articles/syncing-a-fork/
