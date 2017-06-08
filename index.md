@@ -5,4 +5,4 @@
 
 ## Notes
 
-- Git: 
+- [Git](notes/git)
