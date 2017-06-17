@@ -7,7 +7,7 @@ VS2017 은 VS2015 와 바이너리 호환성을 가진다 ([MSDN 블로그](http
 
 ## 기타
 ### Visual Studio 및 MSVC 찾기
-- Registry 검색: https://developercommunity.visualstudio.com/content/problem/2813/cant-find-registry-entries-for-visual-studio-2017.html
+- Registry 검색: <https://developercommunity.visualstudio.com/content/problem/2813/cant-find-registry-entries-for-visual-studio-2017.html>
 - VSWhere 사용
   - Github page: https://github.com/Microsoft/vswhere
   - https://blogs.msdn.microsoft.com/heaths/2017/04/21/vswhere-is-now-installed-with-visual-studio-2017/
