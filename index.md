@@ -6,3 +6,5 @@
 ## Notes
 
 - [Git](notes/git)
+- Programming
+  - [C++](notes/programming/cpp)
