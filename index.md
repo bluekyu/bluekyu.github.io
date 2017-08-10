@@ -5,6 +5,6 @@
 
 ## Notes
 
-- [Git](notes/git)
+- [Git](notes/git.md)
 - Programming
-  - [C++](notes/programming/cpp)
+  - [C++](notes/programming/cpp.md)
