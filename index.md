@@ -1,7 +1,7 @@
 # Welcome
 
 - GitHub: [https://github.com/bluekyu/](https://github.com/bluekyu/)
-- LinkedIn: [www.linkedin.com/in/younguk-kim-831376141](www.linkedin.com/in/younguk-kim-831376141)
+- LinkedIn: [https://www.linkedin.com/in/younguk-kim-831376141/](https://www.linkedin.com/in/younguk-kim-831376141/)
 - OLD blog: [http://blog.bluekyu.me](http://blog.bluekyu.me)
 
 
