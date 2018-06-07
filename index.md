@@ -22,6 +22,7 @@ This project is to develop Render Pipeline C++ library based on Panda3D game eng
 ## Notes
 - [Git](notes/git.md)
 - [Visual Studio](notes/visual_studio.md)
+- [Linux](notes/linux.md)
 - Programming
   - [C++](notes/programming/cpp.md)
   - [Windows](notes/programming/windows.md)
