@@ -9,4 +9,4 @@
 - [HDRI Haven](https://hdrihaven.com/)
 
 ## Computer Vision
-- [AliceVision](https://github.com/alicevision/AliceVision)
+- [AliceVision](https://github.com/alicevision/AliceVision): Photogrammetric Computer Vision Framework
